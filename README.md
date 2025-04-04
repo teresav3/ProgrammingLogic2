@@ -1,2 +1,2 @@
 # ProgrammingLogic2
-C# Console Labs
+C# console labs
