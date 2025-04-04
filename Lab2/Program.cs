@@ -40,12 +40,12 @@ class Program
         //Part 3
 
         Console.WriteLine("Enter your name: ");
-        string name = Console.ReadLine(); 
-        Console.WriteLine ("Hello " + name + "!");
+        string name = Console.ReadLine();
+        Console.WriteLine("Hello " + name + "!");
 
         Console.WriteLine("Enter your age: ");
         string ageInt = Console.ReadLine();
-        int age = Convert.ToInt32(age);
+        int age = Convert.ToInt32(ageInt);
         Console.WriteLine("You are " + ageInt + "years old.");
 
         //Part 4
